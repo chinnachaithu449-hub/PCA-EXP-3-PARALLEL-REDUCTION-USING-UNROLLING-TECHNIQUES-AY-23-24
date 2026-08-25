@@ -50,7 +50,7 @@ Memory Deallocation
 28.	Return from the main function.
 
 ## PROGRAM:
-
+~~~
 %%cuda
 #include <stdio.h>
 #include <cuda_runtime.h>
@@ -374,7 +374,7 @@ int main(int argc, char **argv)
 
     return EXIT_SUCCESS;
 }
-
+~~~
 ## OUTPUT:
 <img width="1037" height="123" alt="Screenshot 2026-08-25 084113" src="https://github.com/user-attachments/assets/963f7dda-a260-483e-8bf0-f8321e1acce0" />
 
